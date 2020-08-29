@@ -1,0 +1,138 @@
+body,html {
+  height: 100%;
+  width: 100%;
+  color: #222;
+  background-color: whitesmoke;
+  }
+.navbar-brand img {
+  height: 3rem;
+}
+.navbar {
+  padding: .1rem; 
+}
+.navbar-nav li {
+  padding-right: 10px;
+}
+.nav-link {
+  font-size: 1em !important;
+}
+.navbar-brand img {
+  height: 3rem;
+}
+.bg {
+  background: url("img/large\ lion.jpg");
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+.herotext {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%);
+  color: darkgreen;
+}
+.herotext h1 {
+  font-weight: 350;
+}
+.herotext h3 {
+  text-shadow: black 3px;
+  margin-bottom: 1rem;
+}
+.btn-primary {
+  background-color: darkgreen;
+  border:darkgreen;
+  color:white;
+}
+.btn-primary:hover {
+  background-color: goldenrod; 
+} 
+.btn-dark {
+  background-color: black;
+  border:black;
+  color:white;
+}
+.btn-outline-dark {
+  font-weight: lighter;
+}
+
+.btn-outline-dark:hover {
+  background-color: goldenrod; 
+  border: goldenrod;
+  color: white;
+  font-weight: lighter;
+} 
+.jumbotron {
+  padding:1rem;
+  border-radius: 0; 
+  background: transparent;
+  background-color: rgb(0,100,0,.3);
+}
+.welcome {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr {
+  /*border-top: 2px solid #b4b4b4;*/
+  border-top: 1px solid darkgreen;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+}
+#giraffe {
+  border-radius: 30px;
+}
+.table {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0;
+}
+.padding {
+  padding-bottom: 2rem; 
+}
+h1,h2 {
+  color: darkgreen;
+}
+
+.fa-cloud-sun-rain,.fa-calendar-check,.fa-route,.fa-ruler-combined {
+  font-size: 4em;
+  margin: 1rem;
+color: goldenrod;
+  /*color: rgb(163, 78, 39);*/
+  padding-bottom: 1rem;
+}
+.fa-campground,.fa-glass-cheers,.fa-binoculars,.fa-hamburger,.fa-utensils,.fa-crow {
+font-size: 4em;
+color: rgb(24, 112, 24);
+}
+.activities i {
+  padding: 3rem;
+  border: 1px solid goldenrod;
+  margin: 20px;
+  border-radius: 15px;
+}
+footer {
+  background-color:#3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+}
+hr.light {
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;  
+}
+footer a {
+  color: #d5d5d5;
+}
+hr.light-100 {
+  border-top: 1px solid #d5d5d5;
+  width: 100%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+}
