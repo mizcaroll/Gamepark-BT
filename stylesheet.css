@@ -118,7 +118,9 @@ color: rgb(24, 112, 24);
 }
 .activities i:hover {
   background-color: goldenrod;
-
+}
+.modal-body {
+  padding: 0px;
 }
 footer {
   background-color:#3f3f3f;
