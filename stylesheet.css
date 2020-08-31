@@ -122,6 +122,13 @@ color: rgb(24, 112, 24);
 .modal-body {
   padding: 0px;
 }
+.imgsize {
+  float: left; 
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  padding: 0;
+}
 footer {
   background-color:#3f3f3f;
   color: #d5d5d5;
