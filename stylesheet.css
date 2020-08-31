@@ -116,6 +116,10 @@ color: rgb(24, 112, 24);
   margin: 20px;
   border-radius: 15px;
 }
+.activities i:hover {
+  background-color: goldenrod;
+
+}
 footer {
   background-color:#3f3f3f;
   color: #d5d5d5;
