@@ -124,10 +124,10 @@ color: rgb(24, 112, 24);
 }
 .imgsize {
   float: left; 
-  width: 300px;
+  width: 600px;
   height: 300px;
   object-fit: cover;
-  padding: 0;
+ 
 }
 footer {
   background-color:#3f3f3f;
