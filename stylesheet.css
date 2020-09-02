@@ -3,6 +3,7 @@ body,html {
   width: 100%;
   color: #222;
   background-color: whitesmoke;
+  scroll-behavior: smooth;
   }
 .navbar-brand img {
   height: 3rem;
